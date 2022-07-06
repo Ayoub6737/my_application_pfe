@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "667757803003",
+    "project_id": "d3freres-8b861",
+    "storage_bucket": "d3freres-8b861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667757803003:android:74a43079ba7d08bb67875e",
+        "android_client_info": {
+          "package_name": "com.D3ferers.app_gestion_de_vente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667757803003-qhjkvs5gpp4mjcnhnf43oajagjqjka77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx4WZF2kjhRLbagoyz73yuQ-o2SAj7xwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667757803003-qhjkvs5gpp4mjcnhnf43oajagjqjka77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667757803003:android:66a244f6a7f8029267875e",
+        "android_client_info": {
+          "package_name": "com.example.app_gestion_de_vente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667757803003-qhjkvs5gpp4mjcnhnf43oajagjqjka77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx4WZF2kjhRLbagoyz73yuQ-o2SAj7xwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667757803003-qhjkvs5gpp4mjcnhnf43oajagjqjka77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
